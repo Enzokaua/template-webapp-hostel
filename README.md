@@ -10,8 +10,8 @@ Exemplo:
 
 As tecnologias deste projeto, são:
 
-- *Tailwind Framework* (versão X)
-- *Node.js* (versão X)
-- *JavaScript* (versão X)
+- *Tailwind Framework*
+- *Node.js* 
+- *JavaScript* 
 - *HTML5*
 - *CSS3*
