@@ -1,2 +1,17 @@
-# Hostel Tailwind
-Landing page developed with the Tailwind css framework
+# Hostel (WebApp)
+
+## Descrição
+
+Enquanto me aventurava no mundo dos frameworks de estilização, me deparei com o Tailwind, uma tecnologia muito utilizada no desenvolvimento frontend. Esse projeto retrata o template de um WebApp de hotelaria, com essa tecnologia sendo a pioneira.
+
+Exemplo:
+
+## Tecnologias Utilizadas
+
+As tecnologias deste projeto, são:
+
+- *Tailwind Framework* (versão X)
+- *Node.js* (versão X)
+- *JavaScript* (versão X)
+- *HTML5*
+- *CSS3*
