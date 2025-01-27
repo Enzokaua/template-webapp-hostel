@@ -1,4 +1,4 @@
-# Hostel (WebApp)
+# Hostel (template)
 
 ## Descrição
 
